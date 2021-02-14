@@ -1,0 +1,16 @@
+create database db_excel_consumer;
+
+use db_excel_consumer;
+CREATE TABLE TAB_EXCEL_CONSUMER (
+	ID BIGINT PRIMARY KEY,
+    POLICY varchar(255),
+    EXPIRY varchar(255),
+    LOCATION varchar(255),
+    STATE varchar(255),
+    REGION varchar(255),
+    INSURED_VALUE varchar(255),
+    CONSTRUCTION varchar(255),
+    BUSINESS_TYPE varchar(255),
+    EARTHQUAKE varchar(255),
+    FLOOD varchar(255)
+);
