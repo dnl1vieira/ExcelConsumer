@@ -1,6 +1,6 @@
 # ExcelConsumer
 
-##How to use
+How to use
 
 - The firts things first. 
 
